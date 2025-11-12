@@ -1,0 +1,11 @@
+{
+  "display_name": "ANEX Debug Commands",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "YourGitHubUsername",
+  "version": "1.0.0",
+  "homePage": "https://github.com/vikibusiness99-design/MILKY-INTEGRATED-COMMANDS"
+}
